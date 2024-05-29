@@ -5,7 +5,7 @@
 
 
 ### Descrição
-Aplicação web simples para gerenciar uma lista de tarefas. A interface permite adicionar novas tarefas, editar tarefas existentes, excluir tarefas individualmente, excluir todas as tarefas e marcar tarefas como concluídas.
+Aplicação web simples para gerenciar uma lista de tarefas. A interface permite adicionar novas tarefas, excluir tarefas individualmente, excluir todas as tarefas e marcar tarefas como concluídas.
 
 
 ### Integrantes
